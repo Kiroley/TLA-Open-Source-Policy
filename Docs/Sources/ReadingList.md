@@ -1,0 +1,8 @@
+# TLA Reading List
+
+| Title                                              | Author(s)                                   | Year | Link/Source                                                                 | Notes                                                                                 |
+|----------------------------------------------------|---------------------------------------------|------|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Example Book or Article Title                      | Author Name(s)                              | 2024 | [Link](https://example.com)                                                  | Brief description                                                                     |
+| Modernizing Learning: Building the Future Learning Ecosystem | Jennifer J. Vogel-Walcutt, Sae Schatz, et al. | 2019 | [Link](https://www.adlnet.gov/assets/uploads/Modernizing%20Learning.pdf)     | Comprehensive guide to modern learning ecosystems, published by ADL Initiative.        |
+| TLA Quick Service Definitions                      | ADL Initiative                              | 2022 | [Link](https://www.adlnet.gov/guides/tla/)                                   | Definitions and descriptions of TLA Quick Services, published by ADL Initiative.       |
+<!-- Add more rows as needed
