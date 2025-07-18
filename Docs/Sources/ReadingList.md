@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>TLA Reading List</title>
+</head>
+<body>
+    <h1>TLA Reading List</h1>
+
+    <table>
+        <tr>
+            <th>Title</th>
+            <th>Author(s)</th>
+            <th>Year</th>
+            <th>Link/Source</th>
+            <th>Notes</th>
+        </tr>
+        <tr>
+            <td>Example Book or Article Title</td>
+            <td>Author Name(s)</td>
+            <td>2024</td>
+            <td><a href="https://example.com">Link</a></td>
+            <td>Brief description</td>
+        </tr>
+        <tr>
+            <td>Modernizing Learning: Building the Future Learning Ecosystem</td>
+            <td>Jennifer J. Vogel-Walcutt, Sae Schatz, et al.</td>
+            <td>2019</td>
+            <td><a href="https://adlnet.gov/publications/modernizing-learning/">Link</a></td>
+            <td>Comprehensive guide to modern learning ecosystems, published by ADL Initiative.</td>
+        </tr>
+        <tr>
+            <td>TLA Quick Service Definitions</td>
+            <td>ADL Initiative</td>
+            <td>2022</td>
+            <td><a href="https://adlnet.gov/resources/tla-quick-service-definitions/">Link</a></td>
+            <td>Definitions and descriptions of TLA Quick Services, published by ADL Initiative.</td>
+        </tr>
+        <!-- Add more rows as needed -->
+    </table>
+</body>
+</html>
